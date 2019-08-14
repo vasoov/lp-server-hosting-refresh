@@ -1,3 +1,5 @@
+Datacenter servers and rack optimisation with Python and PuLP
+
 Suppose that a web server company wants to buy
 new servers to replace outdated ones and has two options to choose from. There is
 a standard model which costs $400, uses 300W of power, takes up 2U of
