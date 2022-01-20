@@ -8,4 +8,4 @@ a server rack, and can handle 1000 API request/sec. There is also a cutting-edge
 which costs $1600, uses 500W of power, but takes up only 1U, and can
 handle 2000 API requests/sec. With a budget of $36,800, 44U of rack space and
 12,200W of power, how many units of each model should the company purchase
-in order to maximize the number of hits it can serve every minute?
+in order to maximize the number of API requests it can serve every second?
