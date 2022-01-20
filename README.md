@@ -1,5 +1,6 @@
 Some organisations choose to avoid Cloud and host their APIs on bare metal servers at dedicated datacenters.
-The issue that crops up in this scenario is what hardware to procure in order to maximise ROI 
+The issue that crops up in this scenario is what hardware to procure in order to maximise ROI.
+Linear programming (LP, also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a mathematical model whose requirements are represented by linear relationships.
 
 For this example, lets assume
 There is a standard model which costs $400, uses 300W of power, takes up 2U of
